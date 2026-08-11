@@ -1,0 +1,28 @@
+Resource,URL,Purpose
+Shopify login,https://www.shopify.com/store-login,Admin access
+Shopify Help Center,https://help.shopify.com,Merchant documentation
+Shopify manual,https://help.shopify.com/en/manual,Full admin manual
+Users and roles,https://help.shopify.com/en/manual/your-account/users/roles,Roles
+Permissions,https://help.shopify.com/en/manual/your-account/users/roles/permissions,Permission model
+Store permissions,https://help.shopify.com/en/manual/your-account/users/roles/permissions/store-permissions,Granular permissions
+Manage users,https://help.shopify.com/en/manual/your-account/users/manage-users,User access
+Duplicate theme,https://help.shopify.com/en/manual/online-store/themes/managing-themes/duplicating-themes,Safe editing
+Download theme,https://help.shopify.com/en/manual/online-store/themes/managing-themes/downloading-themes,Theme backup
+Store backup/duplication,https://help.shopify.com/en/manual/shopify-admin/duplicate-store,Backup boundaries
+Export products,https://help.shopify.com/en/manual/products/import-export/export-products,Product CSV
+Import/export products,https://help.shopify.com/en/manual/products/import-export,Bulk product data
+Theme architecture,https://shopify.dev/docs/storefronts/themes/architecture,Theme structure
+JSON templates,https://shopify.dev/docs/storefronts/themes/architecture/templates/json-templates,Page templates
+Liquid reference,https://shopify.dev/docs/api/liquid,Liquid language
+Theme tools,https://shopify.dev/docs/storefronts/themes/tools,Developer tools
+Shopify CLI,https://shopify.dev/docs/storefronts/themes/tools/cli,Local development
+GitHub integration,https://shopify.dev/docs/storefronts/themes/tools/github,Version control sync
+Version control,https://shopify.dev/docs/storefronts/themes/best-practices/version-control,Git strategy
+Dawn repository,https://github.com/Shopify/dawn,Theme source
+Theme performance,https://shopify.dev/docs/storefronts/themes/best-practices/performance,Speed
+Metafields,https://shopify.dev/docs/apps/build/custom-data/metafields,Custom fields
+Metaobjects,https://shopify.dev/docs/apps/build/custom-data/metaobjects,Structured content
+Shopify APIs,https://shopify.dev/docs/api,API hub
+Storefront API,https://shopify.dev/docs/storefronts/headless/building-with-the-storefront-api/getting-started,Headless storefront
+Authentication,https://shopify.dev/docs/api/usage/authentication,API security
+SEO,https://help.shopify.com/en/manual/promoting-marketing/seo,Search optimization

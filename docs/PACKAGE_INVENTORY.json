@@ -1,0 +1,62 @@
+[
+  {
+    "path": "01_START_HERE/AGENT_MASTER_PROMPT.md",
+    "bytes": 3568
+  },
+  {
+    "path": "02_PROJECT/PROJECT_MASTER_BRIEF.md",
+    "bytes": 4266
+  },
+  {
+    "path": "03_SHOPIFY_CONTROL/OFFICIAL_RESOURCES.csv",
+    "bytes": 2506
+  },
+  {
+    "path": "03_SHOPIFY_CONTROL/SHOPIFY_ADMIN_CONTROL_GUIDE.md",
+    "bytes": 4449
+  },
+  {
+    "path": "04_TECHNICAL/TECHNICAL_DEVELOPMENT_GUIDE.md",
+    "bytes": 3533
+  },
+  {
+    "path": "05_VISUALS/01_AGENT_WORKFLOW.png",
+    "bytes": 68978
+  },
+  {
+    "path": "05_VISUALS/02_SHOPIFY_CONTROL_MAP.png",
+    "bytes": 68597
+  },
+  {
+    "path": "05_VISUALS/03_BRAND_ECOSYSTEM.png",
+    "bytes": 58421
+  },
+  {
+    "path": "06_ASSET_MANIFEST/ORIGINAL_ASSET_MANIFEST.md",
+    "bytes": 2718
+  },
+  {
+    "path": "07_TEMPLATES/CHANGELOG_TEMPLATE.md",
+    "bytes": 214
+  },
+  {
+    "path": "07_TEMPLATES/OWNER_ACCESS_CHECKLIST.md",
+    "bytes": 815
+  },
+  {
+    "path": "07_TEMPLATES/STORE_AUDIT_TEMPLATE.md",
+    "bytes": 586
+  },
+  {
+    "path": "08_SECURITY/SECURITY_AND_OWNERSHIP.md",
+    "bytes": 1151
+  },
+  {
+    "path": "INDEX.html",
+    "bytes": 3900
+  },
+  {
+    "path": "README.md",
+    "bytes": 2204
+  }
+]
