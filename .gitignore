@@ -13,6 +13,7 @@ credentials/
 tokens/
 *cookie*
 *session*
+**/.config/dnshe/env
 
 # Theme backup / export artifacts
 backups/*
